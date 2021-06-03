@@ -18,6 +18,18 @@ The report analyzes the geographic relationship between medical service centers 
 
 ## Tables of accessibility measures
 
+Accessibility Results
+|Population Group |Count
+|-----------------|
+|TotPop           |
+|-----------------|
+|BelowPov         |
+|-----------------|---
+|Age65p           | 
+|-----------------|---
+|SinglFemHH       |
+|-----------------|---
+|WorkHome         |
 
 ## Note about the two measures used to assess geographic accessibility
 The Buffer measurement method covers a wider range than the network, although they all measure 1 mile. The Buffer measurement method includes more people. This can also be seen from Tables of accessibility measures. Among the five variables I listed, the percentage of people selected by the buffer measurement method is always more than that measured by the network. But the network measurement method also has advantages. It uses a map of the transportation network available in the city to analyze complex routing issues around medical institutions. It can accurately express unique route network requirements. (Network Analyst, esri) In this way, we can plan the entire driving route of Connecticut, calculate driving time, find facilities, and solve other network-related problems. It is more accurate to give the traffic route range within 1 mile in the measurement map of Connecticut. Therefore, people can reduce mileage to reduce fuel costs and save time by reducing driving. Reduce vehicle wear. (Network Analyst, esri) This method is beneficial to the below poverty people. Buffer measurement method can include more people and service area, while network method gives detailed traffic information. They all have different specific functions.
