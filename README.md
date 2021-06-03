@@ -20,14 +20,14 @@ The report analyzes the geographic relationship between medical service centers 
 
 Accessibility Results
 
-|    -            |  -                |   -                 |Accessibility within 1 mile|    -                 |Accessibility within 1 mile|
-|-----------------|-------------------|---------------------|---------------------------|----------------------|---------------------------|
-|Population Group |Count              |
-|TotPop           |3,594,478          |
-|BelowPov         |350,783            |
-|Age65p           | 575,757           | 
-|SinglFemHH       |171,544            |
-|WorkHome         |85,156             |
+|    -            |  -                |   -                 |Accessibility within 1 mile|    -               |Accessibility within 1 mile|
+|-----------------|-------------------|---------------------|---------------------------|--------------------|---------------------------|
+|Population Group |Count              |Euclidean            |Percent                    |Networked           |Percent                    |
+|TotPop           |3,594,478          |1,002,014            |27.9                       |740,721             |20.6                       |
+|BelowPov         |350,783            |189,206              |53.9                       |157,151             |44.8                       |
+|Age65p           | 575,757           |124,913              |21.7                       |86,820              |15.1                       |
+|SinglFemHH       |171,544            |74,321               |43.3                       |58,032              |33.8                       | 
+|WorkHome         |85,156             |16,832               |19.8                       |11,675              |13.7                       |
 
 ## Note about the two measures used to assess geographic accessibility
 The Buffer measurement method covers a wider range than the network, although they all measure 1 mile. The Buffer measurement method includes more people. This can also be seen from Tables of accessibility measures. Among the five variables I listed, the percentage of people selected by the buffer measurement method is always more than that measured by the network. But the network measurement method also has advantages. It uses a map of the transportation network available in the city to analyze complex routing issues around medical institutions. It can accurately express unique route network requirements. (Network Analyst, esri) In this way, we can plan the entire driving route of Connecticut, calculate driving time, find facilities, and solve other network-related problems. It is more accurate to give the traffic route range within 1 mile in the measurement map of Connecticut. Therefore, people can reduce mileage to reduce fuel costs and save time by reducing driving. Reduce vehicle wear. (Network Analyst, esri) This method is beneficial to the below poverty people. Buffer measurement method can include more people and service area, while network method gives detailed traffic information. They all have different specific functions.
