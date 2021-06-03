@@ -19,8 +19,9 @@ The report analyzes the geographic relationship between medical service centers 
 ## Tables of accessibility measures
 
 Accessibility Results
-|-----------------|-------------------|---------------------|---------------------------|----------------------|---------------------------|
+
 |    -            |  -                |   -                 |Accessibility within 1 mile|    -                 |Accessibility within 1 mile|
+|-----------------|-------------------|---------------------|---------------------------|----------------------|---------------------------|
 |Population Group |Count              |
 |TotPop           |3,594,478          |
 |BelowPov         |350,783            |
