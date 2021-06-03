@@ -28,6 +28,7 @@ Accessibility Results
 |Age65p           | 575,757           |124,913              |21.7                       |86,820              |15.1                       |
 |SinglFemHH       |171,544            |74,321               |43.3                       |58,032              |33.8                       | 
 |WorkHome         |85,156             |16,832               |19.8                       |11,675              |13.7                       |
+
 Note: the numbers in the above table come from statistical analysis in ArcGIS Pro.
 
 ## Note about the two measures used to assess geographic accessibility
